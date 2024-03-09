@@ -22,16 +22,6 @@ The VoiceLock Access Manager is a software solution designed to enhance security
 - Three default sentences: "Open middle door," "Unlock the gate," "Grant me access."
  - Customizable passcode sentences, provided they do not share similar words.  
 
-## Screenshots
-Below are screenshots from the application, showcasing its user interface and functionality:
-(![image](screenshot1.jpg)
-![image](screenshot2.jpg)
-
-
-
-
-
-
 ## Usage Guidelines
 - Navigate to the settings UI to configure the authorized individuals.
 - Use the "Record Voice Code" button to enroll or verify a user's voice print.
